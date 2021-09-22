@@ -11,19 +11,19 @@ A location app where users can track friends, phones, cars and addresses
 -   Different Views for Maps
 
 
-# Map API
+### Map API
 
 - Google Maps
 
 
-# Unit and instrumentation tests
+### Unit and instrumentation tests
 
 -   Junit
 
 -   Mockito
 
 
-# CI/CD
+### CI/CD
 
 -   Jenkins
 
