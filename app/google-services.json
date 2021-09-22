@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896082127983",
+    "project_id": "partner-location-3cc32",
+    "storage_bucket": "partner-location-3cc32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896082127983:android:1ac3569d12fd3bd6c0719a",
+        "android_client_info": {
+          "package_name": "com.decagon.android.sq007"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896082127983-960s7l57ng7sh8s8hn5q143258u98rbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBseK6votAjUqO1Riu5r3vn1GzCYHxkI9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896082127983-960s7l57ng7sh8s8hn5q143258u98rbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
